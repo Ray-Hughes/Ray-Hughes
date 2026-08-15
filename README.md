@@ -6,7 +6,10 @@
 
 **I build systems that think with you.**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-ray--hughes.github.io-6ee7ff?style=for-the-badge&labelColor=07070e)](https://ray-hughes.github.io/)
+## [ray-hughes.github.io](https://ray-hughes.github.io/)
+
+##### Portfolio, project breakdowns, and the case for forward deployed work
+
 [![Open to FDE roles](https://img.shields.io/badge/open%20to-Forward%20Deployed%20Engineer-a78bfa?style=for-the-badge&labelColor=07070e)](https://ray-hughes.github.io/#/fde)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07070e)](https://www.linkedin.com/in/raymond-h-13838369/)
 [![Email](https://img.shields.io/badge/email-raymond.hughes%40live.com-edeff6?style=for-the-badge&labelColor=07070e)](mailto:raymond.hughes@live.com)
