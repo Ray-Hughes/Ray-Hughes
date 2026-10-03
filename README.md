@@ -45,10 +45,12 @@ engineers use.
 A project tracker with a knowledge graph that AI agents keep current themselves.
 Projects hold tasks, memory notes and links. Claude Code and GitHub Copilot read
 and write the same store over MCP, so what one agent works out survives into the
-next session.
+next session. Every task has a Sheet, the record of what was said, run and
+decided on it, and can have a Workbench: its own folder and branch, with rules
+written so that Finish and Discard cannot lose work.
 
-Eleven MCP tools, zero runtime dependencies, one local SQLite file, and an audit
-log that makes every change reversible.
+Forty-three MCP tools, a `delphi` command line, zero runtime dependencies, one
+local SQLite file, and an audit log that makes every change reversible.
 
 <br clear="left" />
 
